@@ -1,25 +1,28 @@
-## Welcome to GitHub Pages
+## Chingu Voyage 6 / Toucans 7
 
 You can use the [editor on GitHub](https://github.com/AustinCraver/austincraver/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is only a test of the GitHub Pages option...this is only a test.
 
-### Markdown
+### Version 1.0 / Shall We Think Up a Name?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Parenting Tips and Assistance
 
-# Header 1
-## Header 2
-### Header 3
+# Reminders
+## Sync-up calendars with family members
+### So...much...more
 
-- Bulleted
-- List
+- Upcoming Vaccinations
+- Field Trips
 
-1. Numbered
-2. List
+1. Reminders
+2. Dues and Fess
+3. Other Costs
+
+# The following information includes various methods of formating text. 
 
 **Bold** and _Italic_ and `Code` text
 
